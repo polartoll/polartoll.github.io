@@ -3,7 +3,7 @@ title: "First Post"
 layout: post
 ---
 
-One way or another, we ended up getting here. If any of you fellas read this, message me "gerber baby" so I know it exists and you saw it. Gotta get an idea of whether or not any of you have an interest in keeping tabs on me... though maybe you'll choose to stay incognito. Nothing to hide I suppose.
+Test test. First post here. Should be hosted with the nice domain name now. Time to try pushing changes.
 
 
 Is this behind the "Read more" button? I feel like it should be. Next, I'll try and get an image uploaded below. 
